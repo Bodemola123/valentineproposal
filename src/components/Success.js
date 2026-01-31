@@ -25,7 +25,7 @@ const Success = () => {
       </p>
 
       <p className="App-text-success">
-        I’m really looking forward to Valentine’s Day with you, Adeola — laughs,
+        I’m really looking forward to Valentine’s Day with you, Adeola.  Laughs,
         cuddles, soft kisses, and all the little moments that make us, us.
       </p>
 
