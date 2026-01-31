@@ -21,7 +21,7 @@ const Success = () => {
       {/* Soft, playful words */}
       <p className="App-text-success">
         You’re my favorite thought, my happy place, and the sweetest part of my
-        every day. Being with you just feels right.
+        every day. Being with you just feels right. Call God that i have seen one of his angels on earth. 
       </p>
 
       <p className="App-text-success">
